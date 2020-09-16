@@ -7,4 +7,10 @@ Also I have used free SSL certificate provided by Cloudflare.
 
 [Alternate Link](https://lbfc2vz0lly7mhm1j9obfa-on.drv.tw/www.mywebsite.com/)
 
-If File Not Found Error occurs try refreshing the page or try to open link on different browser.
+## If File Not Found Error occurs :
+
+- Try refreshing the page. 
+
+- Try to open link on different browser.
+
+> Keep similing and work harder.
